@@ -1,0 +1,88 @@
+.navbar{
+    height: 50px;
+    width: 100%;
+    background-color:white ;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.grp2,.grp3{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.grp1{
+
+    display: flex;
+    gap:1px;
+    font-size:20px;
+  text-size-adjust:10px ;
+  align-items: center;
+}
+.grp1 i{
+    display: flex;
+    gap: 5px;
+}
+.yt{
+    display: flex;
+    padding-left: 20px;
+}
+.searchbox{
+    border: 1px solid black;
+    width: 300px;
+    height: 50px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    border-radius: 70px;
+    overflow: hidden;
+}
+.searchbox input{
+    height: 100%;
+    width: 80%;
+    border: none;
+    
+    padding-left:5px;
+}
+.searchbox i{
+    font size:15px;
+    
+}
+.mic{
+    height: 40px;
+    width: 40px;
+    background-color:;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left:10px;
+}
+
+.micmich{
+    padding-left: 0%;
+}
+
+.mic i{
+    font size: 20px;
+}
+.mich:hover{
+    background-color: aliceblue;
+
+} 
+.mic{
+    font-size: 20px;
+}
+.bg{
+    padding-right: 30px;
+    display: flex;
+    gap:5px;
+}
+.mic:hover{
+    background-color: aliceblue;
+
+}    
+
+    
+

@@ -1,0 +1,33 @@
+.footer{
+    display:flex;
+    height: 50px;
+    width: 100%;
+    background-color:white;
+    padding-left:25px ;
+    vertical-align: bottom;
+}
+.dribble{
+    display: flex;
+    vertical-align: bottom;
+}
+   
+.text1{
+    padding-left: 80px;
+    display:flex;
+    vertical-align: bottom;
+    gap: 30px;
+    font-size: small;
+    
+}
+.logo{
+    padding-left:80px;
+    display:flex;
+    gap: 10px;
+    vertical-align: bottom;
+}
+.dribble,.text1,.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
